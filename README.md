@@ -2,7 +2,7 @@
 
 ## Description
 980,000 sets of Chinese and Urdu language parallel translation corpus, data storage format is txt document. Data cleaning, desensitization, and quality inspection have been carried out, which can be used as a basic corpus for text data analysis and in fields such as machine translation.
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1247?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/nlu/1247?source=Github
 
 
 ## Storage format
